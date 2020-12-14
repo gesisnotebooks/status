@@ -15,9 +15,9 @@ sites:
 
 status-website:
   baseUrl: /test_status_page
-  logoUrl: https://github.com/gesiscss/orc/raw/master/load_balancer/static/images/logo/logo_big.png
-  name: GESIS-notebooks
-  introTitle: "GESIS notebooks"
+  logoUrl: https://raw.githubusercontent.com/gesiscss/orc/master/load_balancer/static/images/logo/logo_new.svg
+  name: "GESIS Notebooks"
+#   introTitle: "GESIS notebooks"
   introMessage: "Status page for various services running on GESIS notebooks."
   navbar:
     - title: Status
