@@ -14,14 +14,11 @@ sites:
     url: https://notebooks.gesis.org/hub/api/
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-#   cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /test_status_page
   logoUrl: https://github.com/gesiscss/orc/blob/master/load_balancer/static/images/logo/logo_big.png
   name: GESIS-notebooks
   introTitle: "GESIS notebooks"
-  introMessage: Status page for various services running on GESIS notebooks.
+  introMessage: "Status page for various services running on GESIS notebooks."
   navbar:
     - title: Status
       href: /
