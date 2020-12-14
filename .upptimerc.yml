@@ -4,20 +4,24 @@ repo: test_status_page # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: GESIS Notebooks
+  - name: GESIS Notebooks - Persistent BinderHub
     url: https://notebooks.gesis.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: GESIS Notebooks - BinderHub
+    url: https://notebooks.gesis.org/binder
+  - name: GESIS Notebooks - Gallery
+    url: https://notebooks.gesis.org/gallery/
+  - name: JupyterHub API
+    url: https://notebooks.gesis.org/hub/api/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
 #   cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /test_status_page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/gesiscss/orc/blob/master/load_balancer/static/images/logo/logo_big.png
   name: GESIS-notebooks
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "GESIS notebooks"
+  introMessage: Status page for various services running on GESIS notebooks.
   navbar:
     - title: Status
       href: /
