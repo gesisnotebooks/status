@@ -13,23 +13,29 @@ sites:
  # Hackish way to check the JSON fields
   - name: Persistent BinderHub - Health
     url: https://notebooks.gesis.org/services/binder/health
-    __dangerous__body_degraded: '{"ok": true,'
+    __dangerous__body_degraded: '{"ok": false,'
   - name: Persistent BinderHub - Docker
     url: https://notebooks.gesis.org/services/binder/health
-    __dangerous__body_degraded: '{"service": "Docker registry", "ok": true}'
+    __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
+  - name: Persistent BinderHub - Hub API
+    url: https://notebooks.gesis.org/services/binder/health
+    __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
   - name: BinderHub - Health
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"ok": false,'
   - name: BinderHub - Docker
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
+  - name: BinderHub - Hub API
+    url: https://notebooks.gesis.org/binder/health
+    __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
 
 status-website:
   baseUrl: /test_status_page
   logoUrl: https://raw.githubusercontent.com/gesiscss/orc/master/load_balancer/static/images/logo/logo_new.svg
   name: "GESIS Notebooks"
 #   introTitle: "GESIS notebooks"
-  introMessage: "Status page for various services running on GESIS notebooks."
+  introMessage: "Status page tracking various services running at GESIS notebooks. This status page tracks the deployed Persistent BinderHub, BinderHub (available through mybinder.org), and Gallery."
   navbar:
     - title: Status
       href: /
