@@ -38,7 +38,7 @@ status-website:
   introMessage: "Status page tracking various services running at GESIS notebooks. This status page tracks the deployed Persistent BinderHub, BinderHub (available through mybinder.org), and Gallery."
   navbar:
     - title: Status
-      href: /
+      href: /test_status_page
     - title: GitHub
       href: https://github.com/gesiscss/orc
 
