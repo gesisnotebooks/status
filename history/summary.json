@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "persistent-binder-hub-health",
     "status": "up",
-    "uptime": "38.94%",
-    "uptimeDay": "38.94%",
-    "uptimeWeek": "38.94%",
-    "uptimeMonth": "38.94%",
-    "uptimeYear": "38.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 885,
     "timeDay": 885,
     "timeWeek": 885,
     "timeMonth": 885,
     "timeYear": 885,
-    "dailyMinutesDown": {
-      "2020-12-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Persistent BinderHub - Docker",
@@ -79,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "persistent-binder-hub-docker",
     "status": "up",
-    "uptime": "38.67%",
-    "uptimeDay": "38.67%",
-    "uptimeWeek": "38.67%",
-    "uptimeMonth": "38.67%",
-    "uptimeYear": "38.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2020-12-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Persistent BinderHub - Hub API",
