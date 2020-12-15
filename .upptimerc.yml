@@ -13,7 +13,7 @@ sites:
  # Hackish way to check the JSON fields
   - name: Persistent BinderHub - Health
     url: https://notebooks.gesis.org/services/binder/health
-    __dangerous__body_degraded: '{"ok": false,'
+    __dangerous__body_degraded: '{"ok": true,'
   - name: Persistent BinderHub - Docker
     url: https://notebooks.gesis.org/services/binder/health
     __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
