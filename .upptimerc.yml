@@ -30,9 +30,6 @@ sites:
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
 
-assignees:
-  - MridulS
-
 status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/gesiscss/orc/master/load_balancer/static/images/logo/logo_new.svg
