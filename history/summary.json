@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "persistent-binder-hub-health",
     "status": "up",
-    "uptime": "94.94%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "94.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 984,
     "timeDay": 919,
     "timeWeek": 984,
     "timeMonth": 984,
     "timeYear": 984,
-    "dailyMinutesDown": {
-      "2020-12-18": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Persistent BinderHub - Docker",
