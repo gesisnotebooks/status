@@ -13,7 +13,7 @@ sites:
  # Hackish way to check the JSON fields
   - name: Persistent BinderHub - Health
     url: https://notebooks.gesis.org/services/binder/health
-    __dangerous__body_down: '{"ok": true,'
+    __dangerous__body_degraded: '{"ok": false,'
   - name: Persistent BinderHub - Docker
     url: https://notebooks.gesis.org/services/binder/health
     __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
@@ -30,7 +30,6 @@ sites:
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
 
-
 status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/gesiscss/orc/master/load_balancer/static/images/logo/logo_new.svg
@@ -42,5 +41,6 @@ status-website:
       href: /status
     - title: GitHub
       href: https://github.com/gesiscss/orc
-    - title: GESIS Notebooks
-      href: https://notebooks.gesis.org
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
