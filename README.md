@@ -1,4 +1,4 @@
-# [📈 Live Status](https://MridulS.github.io/test_status_page): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://gesisnotebooks.github.io/status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [GESIS Notebooks](http://notebooks.gesis.org), powered by [Upptime](https://github.com/upptime/upptime).
 
