@@ -1,6 +1,6 @@
 # Change these first
-owner: MridulS # Your GitHub username
-repo: test_status_page # Your Github repository name
+owner: gesisnotebooks # Your GitHub username
+repo: status # Your Github repository name
 
 # Add your sites here
 sites:
@@ -31,14 +31,14 @@ sites:
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
 
 status-website:
-  baseUrl: /test_status_page
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/gesiscss/orc/master/load_balancer/static/images/logo/logo_new.svg
   name: "GESIS Notebooks"
 #   introTitle: "GESIS notebooks"
   introMessage: "Status page tracking various services running at GESIS notebooks. This status page tracks the deployed Persistent BinderHub, BinderHub (available through mybinder.org), and Gallery."
   navbar:
     - title: Status
-      href: /test_status_page
+      href: /status
     - title: GitHub
       href: https://github.com/gesiscss/orc
 
