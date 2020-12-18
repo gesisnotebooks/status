@@ -41,6 +41,8 @@ status-website:
       href: /status
     - title: GitHub
       href: https://github.com/gesiscss/orc
+    - title: GESIS Notebooks
+      href: https://notebooks.gesis.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
