@@ -4,19 +4,19 @@
     "url": "https://notebooks.gesis.org",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "gesis-notebooks-persistent-binder-hub",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 893,
-    "timeDay": 629,
-    "timeWeek": 897,
-    "timeMonth": 893,
-    "timeYear": 893,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 891,
+    "timeDay": 703,
+    "timeWeek": 929,
+    "timeMonth": 891,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2021-01-06": 3
+      "2021-01-06": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://notebooks.gesis.org/binder",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "gesis-notebooks-binder-hub",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 391,
-    "timeDay": 278,
-    "timeWeek": 269,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 392,
+    "timeDay": 338,
+    "timeWeek": 279,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2021-01-06": 3
+      "2021-01-06": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://notebooks.gesis.org/gallery/",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "gesis-notebooks-gallery",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1800,
-    "timeDay": 1250,
-    "timeWeek": 2316,
-    "timeMonth": 1800,
-    "timeYear": 1800,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1777,
+    "timeDay": 925,
+    "timeWeek": 2048,
+    "timeMonth": 1777,
+    "timeYear": 1777,
     "dailyMinutesDown": {
-      "2021-01-06": 2
+      "2021-01-06": 7
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://notebooks.gesis.org/services/binder/health",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "persistent-binder-hub-health",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 975,
-    "timeDay": 1002,
-    "timeWeek": 1009,
+    "timeDay": 994,
+    "timeWeek": 1022,
     "timeMonth": 975,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2021-01-06": 2
+      "2021-01-06": 7
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://notebooks.gesis.org/services/binder/health",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "persistent-binder-hub-docker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 103,
-    "timeWeek": 112,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 178,
+    "timeDay": 123,
+    "timeWeek": 117,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2021-01-06": 1
+      "2021-01-06": 6
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://notebooks.gesis.org/services/binder/health",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "persistent-binder-hub-hub-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 158,
-    "timeDay": 115,
-    "timeWeek": 112,
+    "timeDay": 130,
+    "timeWeek": 118,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2021-01-06": 0
+      "2021-01-06": 5
     }
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
-    "time": 576,
-    "timeDay": 1005,
-    "timeWeek": 247,
-    "timeMonth": 576,
-    "timeYear": 576,
+    "time": 568,
+    "timeDay": 584,
+    "timeWeek": 246,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2020-12-21": 131
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
-    "time": 289,
-    "timeDay": 102,
-    "timeWeek": 113,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 286,
+    "timeDay": 125,
+    "timeWeek": 119,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2020-12-21": 131
     }
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
-    "time": 300,
-    "timeDay": 104,
-    "timeWeek": 277,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "time": 297,
+    "timeDay": 129,
+    "timeWeek": 284,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2020-12-21": 131
     }
