@@ -10,6 +10,7 @@ sites:
     url: https://notebooks.gesis.org/binder
   - name: GESIS Notebooks - Gallery
     url: https://notebooks.gesis.org/gallery/
+
  # Hackish way to check the JSON fields
   - name: Persistent BinderHub - Health
     url: https://notebooks.gesis.org/services/binder/health
