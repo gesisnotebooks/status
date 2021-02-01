@@ -25,19 +25,19 @@
     "url": "https://notebooks.gesis.org/binder",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "gesis-notebooks-binder-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 11605,
-    "timeWeek": 3144,
-    "timeMonth": 976,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 639,
+    "timeDay": 7804,
+    "timeWeek": 2817,
+    "timeMonth": 953,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2021-02-01": 0
+      "2021-02-01": 28
     }
   },
   {
