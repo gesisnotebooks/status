@@ -1,7 +1,7 @@
 url: https://notebooks.gesis.org/services/binder/health
-status: up
-code: 200
-responseTime: 146
-lastUpdated: 2021-03-01T07:34:53.186Z
+status: down
+code: 503
+responseTime: 3100
+lastUpdated: 2021-03-01T07:45:37.104Z
 startTime: Fri Dec 18 2020 10:45:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
