@@ -20,7 +20,7 @@ sites:
     __dangerous__body_degraded: '{"service": "Docker registry", "ok": true}'
   - name: Persistent BinderHub - Hub API
     url: https://notebooks.gesis.org/services/binder/health
-    __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": true}'
+    __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
   - name: BinderHub - Health
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"ok": false,'
