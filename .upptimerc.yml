@@ -8,8 +8,8 @@ sites:
     url: https://notebooks.gesis.org
   - name: GESIS Notebooks - BinderHub
     url: https://notebooks.gesis.org/binder
-  - name: GESIS Notebooks - Gallery
-    url: https://notebooks.gesis.org/gallery/
+  #- name: GESIS Notebooks - Gallery
+  #  url: https://notebooks.gesis.org/gallery/
 
  # Hackish way to check the JSON fields
   - name: Persistent BinderHub - Health
@@ -17,7 +17,7 @@ sites:
     __dangerous__body_degraded: '{"ok": false,'
   - name: Persistent BinderHub - Docker
     url: https://notebooks.gesis.org/services/binder/health
-    __dangerous__body_degraded: '{"service": "Docker registry", "ok": true}'
+    __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
   - name: Persistent BinderHub - Hub API
     url: https://notebooks.gesis.org/services/binder/health
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
